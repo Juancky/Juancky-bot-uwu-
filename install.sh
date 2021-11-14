@@ -1,3 +1,3 @@
 # Juancky-bot-uwu-
 ola
-"npm install"
+npm install
