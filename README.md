@@ -1,2 +1,0 @@
-# Juancky-bot-uwu-
-ola
